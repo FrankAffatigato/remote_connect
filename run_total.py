@@ -5,3 +5,5 @@ for i in list1:
     output.append(sum(list1[:list1.index(i) + 1]))
 
 print(output)
+
+print('new update')
